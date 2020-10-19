@@ -1,0 +1,182 @@
+@media (max-width: 1000px) {
+    .about__row {
+        margin-right: 20px;
+    }
+
+    .contact__form {
+        display: block;
+        margin-left: 175px;
+        margin-right: 15px;
+    }
+
+    .contact__form-name {
+        margin-bottom: 20px;
+        margin-right: 0;
+        text-align: center;
+    }
+
+    .contact__form-mail {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .contact__form-message {
+        text-align: center;
+    }
+
+    .contact__form-message textarea {
+        width: 300px;
+        height: 100px;
+    }
+
+    .contact__form-btn button {
+        left: 35%;
+    }
+
+    .contact__texts {
+        margin-right: 150px;
+        width: auto;
+    }
+}
+
+@media (max-width: 935px) {
+    .about__column:first-child {
+        margin-left: 25px;
+    }
+
+    .contact__wrapper {
+        text-align: center;
+    }
+
+    .contact__title {
+        margin-bottom: 300px;
+    }
+
+    .contact__form {
+        margin-left: 23px;
+        margin-right: 15px;
+    }
+
+    .contact__form-btn button {
+        left: 48%;
+    }
+
+    .contact__texts {
+        position: absolute;
+        top: 14%;
+        left: 37%;
+        margin-right: 37%;
+    }
+
+    .contact__text {
+        margin-bottom: 20px;
+    }
+
+    .contact__author {
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width: 800px) {
+    .about__row {
+        display: block;
+    }
+
+    .about__column {
+        margin-right: 0;
+        margin-left: 0;
+        margin-bottom: 30px;
+    }
+
+    .about__column:first-child {
+        margin-left: 0;
+    }
+
+    .about__column:last-child {
+        margin-bottom: 0;
+    }
+
+    .contact__texts {
+        margin-right: 0;
+        left: 26%;
+    }
+}
+
+@media (max-width: 798px) {
+    .contact__texts {
+        left: 34%;
+    }
+}
+
+@media (max-width: 765px) {
+    .contact__texts {
+        left: 30%;
+    }
+}
+
+@media (max-width: 635px) {
+    .home__title {
+        font-size: 30px;
+    }
+
+    .home__title span {
+        font-size: 20px;
+    }
+
+    .contact__texts {
+        left: 29%;
+    }
+
+    .contact__form-btn button {
+        left: 46%;
+    }
+}
+
+@media (max-width: 535px) {
+    .contact__texts {
+        left: 24%;
+    }
+}
+
+@media (max-width: 460px) {
+    .home__title {
+        font-size: 28px;
+    }
+
+    .home__title span {
+        font-size: 18px;
+    }
+
+    .contact__texts {
+        left: 15%;
+    }
+}
+
+@media (max-width: 380px) {
+    .title {
+        font-size: 25px;
+    }
+
+    .home {
+        padding-bottom: 90px;
+    }
+
+    .home__title {
+        font-size: 25px;
+        margin-bottom: 300px;
+    }
+
+    .home__title span {
+        font-size: 15px;
+    }
+
+    .contact__texts {
+        left: 13%;
+    }
+}
+
+@media (max-width: 340px) {
+    .contact__texts {
+        left: 2%;
+    }
+}
